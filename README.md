@@ -4,6 +4,6 @@
 ## [Instalacion de Ansible](https://github.com/luradur094/Ansible/blob/main/modulo3.md)
 ## [Configurar un playbook en Ansible](https://github.com/luradur094/Ansible/blob/main/modulo4.md)
 ## [Desplegar servicios en Ansible](https://github.com/luradur094/Ansible/blob/main/modulo5.md)
-## [Referencias]
+## [Referencias](https://github.com/luradur094/Ansible/blob/main/modulo6.md)
 ## [Licencia](https://github.com/luradur094/Ansible/blob/main/licencia.md)
 ## [Video Tutorial](https://github.com/luradur094/Ansible/blob/main/video.md)
