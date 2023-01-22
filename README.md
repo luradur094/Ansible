@@ -6,4 +6,4 @@
 ## [Desplegar servicios en Ansible](https://github.com/luradur094/Ansible/blob/main/modulo5.md)
 ## [Referencias]
 ## [Licencia](https://github.com/luradur094/Ansible/blob/main/licencia.md)
-## [Video Tutorial]()
+## [Video Tutorial](https://github.com/luradur094/Ansible/blob/main/video.md)
