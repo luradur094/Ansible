@@ -5,7 +5,7 @@ Su configuracion se realiza de la siguiente manera.
 - Los parametros se introducen en un fichero .yml
 - Su estructura seria la siguiente:
 
-![Local]()
+![Local](https://github.com/luradur094/Ansible/blob/main/Imagen/pagina%20ansible.png)
 
 - Ansible tiene diferentes modulos que realizan determinadas acciones por ejemplo:
 1- File: Este moculo lo que haces es manejar los ficheros y sus propiedades

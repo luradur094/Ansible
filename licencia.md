@@ -1,1 +1,1 @@
-![..]()
+![..](https://github.com/luradur094/Ansible/blob/main/Imagen/licencia.png)
